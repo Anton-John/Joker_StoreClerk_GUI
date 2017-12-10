@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jokerRMI;
+package JokerStoreClerk;
 
 import java.awt.Color;
 import java.awt.Container;
@@ -239,11 +239,11 @@ public class SelectClient extends javax.swing.JFrame {
 
         TabbedPane.addTab("New Client", Register_Panel);
 
-        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo1.png"))); // NOI18N
+        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo1.png"))); // NOI18N
 
-        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo2.png"))); // NOI18N
+        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo2.png"))); // NOI18N
 
-        Logo3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo3.png"))); // NOI18N
+        Logo3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo3.png"))); // NOI18N
 
         Welcome_LB_Login1.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
         Welcome_LB_Login1.setForeground(new java.awt.Color(102, 102, 102));

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jokerRMI;
+package JokerStoreClerk;
 
 import java.awt.Color;
 import java.awt.Container;
@@ -134,11 +134,11 @@ public class WelcomePage extends javax.swing.JFrame {
 
         TabbedPane.addTab("Log In  ", Login_Panel);
 
-        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo1.png"))); // NOI18N
+        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo1.png"))); // NOI18N
 
-        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo2.png"))); // NOI18N
+        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo2.png"))); // NOI18N
 
-        Logo3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo3.png"))); // NOI18N
+        Logo3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo3.png"))); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

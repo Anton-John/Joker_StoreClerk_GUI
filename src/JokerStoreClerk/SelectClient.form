@@ -353,21 +353,21 @@
     <Component class="javax.swing.JLabel" name="Logo1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/jokerRMI/JokerLogo1.png"/>
+          <Image iconType="3" name="/JokerStoreClerk/JokerLogo1.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="Logo2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/jokerRMI/JokerLogo2.png"/>
+          <Image iconType="3" name="/JokerStoreClerk/JokerLogo2.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="Logo3">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/jokerRMI/JokerLogo3.png"/>
+          <Image iconType="3" name="/JokerStoreClerk/JokerLogo3.png"/>
         </Property>
       </Properties>
     </Component>

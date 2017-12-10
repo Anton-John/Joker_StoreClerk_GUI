@@ -7,9 +7,9 @@ package listeners;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import jokerRMI.SelectClient;
-import jokerRMI.StoreClerk;
-import jokerRMI.WelcomePage;
+import JokerStoreClerk.SelectClient;
+import JokerStoreClerk.StoreClerk;
+import JokerStoreClerk.WelcomePage;
 
 /**
  *

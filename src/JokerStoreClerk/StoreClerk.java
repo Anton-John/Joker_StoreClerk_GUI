@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jokerRMI;
+package JokerStoreClerk;
 
 import java.awt.Color;
 import java.awt.Container;
@@ -390,9 +390,9 @@ public class StoreClerk extends javax.swing.JFrame {
         StoreClerk_LB.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         StoreClerk_LB.setText("Store Clerk :");
 
-        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo1.png"))); // NOI18N
+        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo1.png"))); // NOI18N
 
-        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo3.png"))); // NOI18N
+        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerStoreClerk/JokerLogo3.png"))); // NOI18N
 
         SelectedClient_LB.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         SelectedClient_LB.setText("Selected Client  :");
